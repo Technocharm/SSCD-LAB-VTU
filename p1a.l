@@ -1,7 +1,7 @@
 /*Write a LEX program to recognize valid arithmetic
 expression. Identifiers in the expression could be
 only integers and operators could be + and *. Count
-the identifiers &amp; operators present and print them
+the identifiers & operators present and print them
 separately.*/
 
 %{
