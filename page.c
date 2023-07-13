@@ -8,7 +8,6 @@ suitable input required to demonstrate the results.*/
 
 void FIFO(char [ ],char [ ],int,int);
 void lru(char [ ],char [ ],int,int);
-void opt(char [ ],char [ ],int,int);
 
 int main()
 {
